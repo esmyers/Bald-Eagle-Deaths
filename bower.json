@@ -1,0 +1,23 @@
+{
+  "name": "BaldEagle_Deaths",
+  "authors": [
+    "esmyers <emyers@usgs.gov>"
+  ],
+  "description": "Pie Chart with Angular nvd3",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "angular-nvd3": "~1.0.5"
+  }
+}
